@@ -1,0 +1,2 @@
+# BarkodluSatis
+Barkodlu Satış Uygulaması
