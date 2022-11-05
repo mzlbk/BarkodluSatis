@@ -13,10 +13,10 @@ Gazi Üniversitesi Bilgisayar Mühendisliği bölümü 1. sınıf 2. dönem proj
 
 ************************************************************************************************************
 
-    ÖZET
-    Marketlerde, bakkallarda özellikle küçük işletmelerde kullanılması planlanan bir otomasyon projesi. İçinde personelin işlerini büyük ölçüde kolaylaştıracak bir
-    sistem barındırıyor. Ürün ekleme silme, stok takibi, ürün fiyat durumu güncelleme, ürün grubu ekleme ve hızlı tuşlar gibi özellikler kullanıcının işlerini büyük
-    ölçüde kolaylaştırıyor. Bütün bu özellikleri her kesimden insanın kullanabilmesi için sade, basit ve anlaşılır bir biçimde tasarladım.
+ÖZET
+Marketlerde, bakkallarda özellikle küçük işletmelerde kullanılması planlanan bir otomasyon projesi. İçinde personelin işlerini büyük ölçüde kolaylaştıracak bir
+sistem barındırıyor. Ürün ekleme silme, stok takibi, ürün fiyat durumu güncelleme, ürün grubu ekleme ve hızlı tuşlar gibi özellikler kullanıcının işlerini büyük
+ölçüde kolaylaştırıyor. Bütün bu özellikleri her kesimden insanın kullanabilmesi için sade, basit ve anlaşılır bir biçimde tasarladım.
 
 
 Proje küçük işletmeler için otomasyon sistemidir. Kayıt tutma, ürün arama, fiyat güncelleme gibi maliyetleri en aza indirgemeyi amaçladım. Ürün girdi, grup, fiyat
@@ -29,8 +29,8 @@ yalnızca uygulamanız için yerel olan veri tabanıdır. SQL Server CE (Compact
 yüklemeye gerek yoktur. SSCE'Yİ oluşturan dll'leri uygulamanızla birlikte yüklemeniz ve veri dosyasına doğrudan erişmeniz yeterlidir [2]. Fakat ben daha fazla şey
 öğrenmek için hizmet tabanlı veri tabanını seçtim.
 
-    Çok fazla değişken, değişken türleri arasında kaybolmamak ve küçük çaplı bir proje üzerinde uğraştığım için “var” değişken türünden (özellikle lamda expression’da)
-    çokça yararlandım [3].
+Çok fazla değişken, değişken türleri arasında kaybolmamak ve küçük çaplı bir proje üzerinde uğraştığım için “var” değişken türünden (özellikle lamda expression’da)
+çokça yararlandım [3].
 
      Algoritma oluştururken beni büyük bir dertten kurtaran LINQ'den ve özellikle Lambda Expressions'dan çokça yararlandım. Microsoft'un Visual Studio 2008 ve .NET
 Framework 3.5 ile beraber kullanıma sunduğu LINQ (Language INtegrated Query) veya Türkçesi Programlama Diliyle Bütünleştirilmiş Sorgu olan, Haskell, XML, HTML ve
