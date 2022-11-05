@@ -32,14 +32,15 @@ yüklemeye gerek yoktur. SSCE'Yİ oluşturan dll'leri uygulamanızla birlikte y�
 Çok fazla değişken, değişken türleri arasında kaybolmamak ve küçük çaplı bir proje üzerinde uğraştığım için “var” değişken türünden (özellikle lamda expression’da)
 çokça yararlandım [3].
 
-     Algoritma oluştururken beni büyük bir dertten kurtaran LINQ'den ve özellikle Lambda Expressions'dan çokça yararlandım. Microsoft'un Visual Studio 2008 ve .NET
+Algoritma oluştururken beni büyük bir dertten kurtaran LINQ'den ve özellikle Lambda Expressions'dan çokça yararlandım. Microsoft'un Visual Studio 2008 ve .NET
 Framework 3.5 ile beraber kullanıma sunduğu LINQ (Language INtegrated Query) veya Türkçesi Programlama Diliyle Bütünleştirilmiş Sorgu olan, Haskell, XML, HTML ve
 SQL programlama dilleri gibi bildirimsel (Declerative) yazım şekli (sözdizimi, syntax) kullanan bir bileşen teknolojidir. 
-     C#'daki Lambda ifadeleri, anonim işlevler gibi kullanılır; şu farkla ki, Lambda ifadelerinde girdiğiniz değerin türünü belirtmeniz gerekmez, bu nedenle kullanımı
+
+C#'daki Lambda ifadeleri, anonim işlevler gibi kullanılır; şu farkla ki, Lambda ifadelerinde girdiğiniz değerin türünü belirtmeniz gerekmez, bu nedenle kullanımı
 daha esnek hale getirir. '=>' işareti, tüm lambda ifadelerinde kullanılan lambda operatörüdür. Lambda ifadesi iki kısma ayrılır, sol taraf girdi, sağ taraf ise
 ifadedir [4,5,6,7].
 
-    "ToBindingList" ve "Load" metotları için "System.Data.Entity" kütüphanesini kullandım [8,9].
+"ToBindingList" ve "Load" metotları için "System.Data.Entity" kütüphanesini kullandım [8,9].
 
 
 ************************************************************************************************************
