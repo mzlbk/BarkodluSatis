@@ -19,9 +19,10 @@ Gazi Üniversitesi Bilgisayar Mühendisliği bölümü 1. sınıf 2. dönem proj
     ölçüde kolaylaştırıyor. Bütün bu özellikleri her kesimden insanın kullanabilmesi için sade, basit ve anlaşılır bir biçimde tasarladım.
 
 
-    Proje küçük işletmeler için otomasyon sistemidir. Kayıt tutma, ürün arama, fiyat güncelleme gibi maliyetleri en aza indirgemeyi amaçladım. Ürün girdi, grup, fiyat durumlarını görüntüleyebileceği ve bunları düzenleyebileceği bunlara ek olarak da yapılan satış işlemlerinin kaydını görüntüleyebileceği bir programdır.
+Proje küçük işletmeler için otomasyon sistemidir. Kayıt tutma, ürün arama, fiyat güncelleme gibi maliyetleri en aza indirgemeyi amaçladım. Ürün girdi, grup, fiyat
+durumlarını görüntüleyebileceği ve bunları düzenleyebileceği bunlara ek olarak da yapılan satış işlemlerinin kaydını görüntüleyebileceği bir programdır.
 
-    Projemde "Yerel Veri tabanı" kullanmak yerine "Hizmet Tabanlı Veri tabanı" kullandım [1]. İkisinin birbirinden farkları ise;
+Projemde "Yerel Veri tabanı" kullanmak yerine "Hizmet Tabanlı Veri tabanı" kullandım [1]. İkisinin birbirinden farkları ise;
 Hizmet tabanlı bir veri tabanı, yalnızca bir sunucu aracılığıyla erişilen bir veri tabanıdır. SQL Server formatı olan bir MDF veri dosyası kullanır. Bir SQL Server
 veri tabanına bağlanabilmek için SQL Server hizmetinin çalışıyor olması gerekir, çünkü isteklerinizi işleyen ve veri dosyasına erişen odur. Yerel veri tabanı ise
 yalnızca uygulamanız için yerel olan veri tabanıdır. SQL Server CE (Compact Edition) biçimi olan bir SDF veri dosyası kullanır. SDF veri tabanına erişmek için sunucu
